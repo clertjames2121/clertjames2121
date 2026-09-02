@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [James Clert G. Amarillo] 👋
 
 ### 🛠️ What I'm Learning
 * HTML & CSS

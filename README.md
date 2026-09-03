@@ -1,11 +1,11 @@
 # Hi, I'm James Clert G. Amarillo 👋
 
 ### 🛠️ What I'm Learning
-* HTML & CSS
-* JavaScript
+* Python
 * VS Code & GitHub
 
 ### 🎈 Fun Facts
-* ☕ I run on coffee
+* ☕ I like farm
 * 🎧 I love listening to music while studying
-* 🎮 I like playing video games in my free time
+* 🎮 I like to explore new things
+* 🏋️‍♂️ I love fitness
